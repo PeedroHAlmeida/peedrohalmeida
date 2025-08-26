@@ -32,7 +32,8 @@ Atualmente, estou aprofundando meus conhecimentos e habilidades através de um *
 - 🐍 Formação Cientista de Dados: O Curso Completo - 2025 - Udemy;
 - 🚀 Cursando MBA em Ciência de Dados na [FM2S](https://www.fm2s.com.br/mba/ciencia-de-dados);
 - 💡 Apaixonado por resolver problemas complexos com dados;
-- 🌱 Sempre em busca de aprendizado e desenvolvimento contínuo.
+- 🌱 Sempre em busca de aprendizado e desenvolvimento contínuo;
+- 🙂 <a href="https://peedrohalmeida.github.io/SitePessoal/">Meu site pessoal.</a>
 
 
 
